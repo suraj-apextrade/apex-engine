@@ -1,3 +1,7 @@
 fastapi
 uvicorn
 requests
+ccxt
+nltk
+pandas
+pandas-ta
